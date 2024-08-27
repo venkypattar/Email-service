@@ -1,0 +1,4 @@
+"mocha": {
+  "require": "ts-node/register",
+  "spec": "tests/**/*.test.ts"
+}
